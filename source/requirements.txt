@@ -1,0 +1,6 @@
+PyQt6
+psutil
+keyboard
+pygetwindow
+opencv-python-headless
+pyinstaller 
